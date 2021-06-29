@@ -1,0 +1,2 @@
+# mcompacter
+MongoDB compacter
